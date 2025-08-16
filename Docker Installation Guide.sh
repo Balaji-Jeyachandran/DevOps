@@ -1,4 +1,4 @@
-1. Installation of Docker :
+Installation of Docker :
 
 	* sudo apt update -y
 	* sudo apt install -y docker.io
