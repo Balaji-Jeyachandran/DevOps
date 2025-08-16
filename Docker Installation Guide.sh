@@ -9,7 +9,7 @@
 	* sudo usermod -aG docker ubuntu
 
 
-2. Installation of docker compose :
+#2. Installation of docker compose :
 	1. Update your package list
 	sudo apt update
 
